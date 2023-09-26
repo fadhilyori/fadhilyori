@@ -1,6 +1,6 @@
 ### Hi there, `I am Fadhil Yori,` 👋
 
-https://www.fadhilyori.my.id/
+https://fadhilyori.my.id/
 
 Passionate about technology and constantly learning in the ever-evolving world of tech. I'm the Technology Infrastructure Lead at [Trustmedis](https://trustmedis.com), where I thrive in managing and optimizing infrastructure to support innovative solutions. Excited about collaborating on open-source projects and exploring new possibilities in the tech realm.
 
